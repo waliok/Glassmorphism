@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct Glassmorphism_IOS15App: App {
+    @StateObject var model = Model()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .navigationViewStyle(StackNavigationViewStyle())
+                .environmentObject(model)
         }
     }
 }
