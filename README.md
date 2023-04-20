@@ -1,8 +1,10 @@
-# Glassmorphism style
+# Glassmorphism style App
+
 This project was created after finishing courses of desing for iOS App.
 In my project i'm using assets from educational matirials of its courses.
 
-Main features
+# Main features
+
 * Custom navigation and tab bar with animated effects
 * Nice and smooth custom animation transitions with math geometry effect option
 * Parallax scrolling effects
