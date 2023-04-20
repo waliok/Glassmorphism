@@ -1,10 +1,14 @@
 # Glassmorphism style
-This project was created in glassmorphism style.
+This project was created after finishing courses of desing for iOS App.
+In my project i'm using assets from educational matirials of its courses.
 
 Main features
-
-* Complex animation effects
-* Smooth transition effects
+* Custom navigation and tab bar with animated effects
+* Nice and smooth custom animation transitions with math geometry effect option
+* Parallax scrolling effects
+* Working with random API service to populate fields, lists, and other
+* Try to work with voiceover support and dynamic types
+* Also making design responsive for other iOS devices like iPad
 
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2023-04-20 at 15 57 27](https://user-images.githubusercontent.com/105702456/233397771-3f3bbd41-c338-41b0-8f51-68e30a00b50c.gif)
