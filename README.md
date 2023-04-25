@@ -1,7 +1,7 @@
 # Glassmorphism style App
 
 This project was created after finishing courses of desing for iOS App.
-In my project i'm using assets from educational matirials of its courses.
+In my project i'm using assets from educational materials of its courses.
 
 # Main features
 
@@ -9,7 +9,7 @@ In my project i'm using assets from educational matirials of its courses.
 * Nice and smooth custom animation transitions with math geometry effect option
 * Parallax scrolling effects
 * Working with random API service to populate fields, lists, and other
-* Try to work with voiceover support and dynamic types
+* Voiceover support and dynamic types
 * Also making design responsive for other iOS devices like iPad
 
 
